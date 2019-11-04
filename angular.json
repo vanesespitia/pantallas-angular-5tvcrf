@@ -23,7 +23,7 @@
               "src/assets"
             ],
             "styles": [
-              "src/Public_html/CSS/Principal.css"
+              "src/CSS/Principal.css"
             ],
             "scripts": []
           },
